@@ -1,0 +1,13 @@
+id,week,block,lineup,player,partner,task,patch,rival,side,status,opportunities,successes
+s1,1,g1,pine,kai,bo,rotate,p1,A,blue,counted,8,5
+s2,1,g1,pine,kai,bo,rotate,p1,A,red,counted,5,4
+s3,1,g1,pine,kai,bo,rotate,p1,A,red,restart,3,2
+s4,2,g2,pine,yun,bo,rotate,p1,A,blue,counted,9,6
+s5,2,g3,reeds,yun,lan,rotate,p1,B,red,counted,7,6
+s6,2,g4,reeds,kai,lan,rotate,p1,A,red,counted,8,5
+s7,3,g5,pine,kai,bo,rotate,p1,B,red,counted,10,6
+s8,3,g6,reeds,kai,lan,invade,p2,B,blue,counted,6,3
+s9,3,g6,reeds,yun,lan,invade,p2,B,red,counted,5,4
+s10,4,g7,reeds,yun,lu,rotate,p1,A,blue,counted,8,4
+s11,4,g8,pine,kai,bo,rotate,p1,A,red,counted,12,8
+s12,4,g9,reeds,kai,lu,rotate,p1,A,blue,counted,11,5

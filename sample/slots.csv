@@ -1,0 +1,5 @@
+id,week,rival,patch,tasks,sequential
+d1,4,B,p1,"rotate,invade",2
+d2,4,B,p1,rotate,1
+d3,5,A,p1,rotate,2
+d4,5,B,p2,invade,1

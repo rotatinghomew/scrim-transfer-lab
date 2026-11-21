@@ -1,0 +1,47 @@
+{
+  "segments": {
+    "id": "str",
+    "week": "int",
+    "block": "str",
+    "lineup": "str",
+    "player": "str",
+    "partner": "str",
+    "task": "str",
+    "patch": "str",
+    "rival": "str",
+    "side": "str",
+    "status": "str",
+    "opportunities": "int",
+    "successes": "int"
+  },
+  "corrections": {
+    "segment": "str",
+    "known_week": "int",
+    "player": "str",
+    "partner": "str"
+  },
+  "booking_targets": {
+    "id": "str",
+    "lineup": "str",
+    "player": "str",
+    "task": "str",
+    "patch": "str",
+    "rival": "str",
+    "paired": "bool"
+  },
+  "slots": {
+    "id": "str",
+    "week": "int",
+    "rival": "str",
+    "patch": "str",
+    "tasks": "str",
+    "sequential": "int"
+  },
+  "receipts": {
+    "seq": "int",
+    "week": "int",
+    "action": "str",
+    "target": "str",
+    "slot": "str"
+  }
+}

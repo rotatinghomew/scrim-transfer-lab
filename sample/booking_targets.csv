@@ -1,0 +1,4 @@
+id,lineup,player,task,patch,rival,paired
+b1,reeds,kai,rotate,p1,B,1
+b2,pine,yun,rotate,p1,B,0
+b3,reeds,kai,invade,p2,B,0
